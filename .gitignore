@@ -1,0 +1,16 @@
+*.iml
+/TranslatorApp/.idea
+/Translator/.idea
+
+/TranslatorApp/.gradle
+/TranslatorApp/local.properties
+/TranslatorApp/.idea/caches
+/TranslatorApp/.idea/libraries
+/TranslatorApp/.idea/modules.xml
+/TranslatorApp/.idea/workspace.xml
+/TranslatorApp/.idea/navEditor.xml
+/TranslatorApp/.idea/assetWizardSettings.xml
+/TranslatorApp/.DS_Store
+/TranslatorApp/build
+/TranslatorApp/captures
+/TranslatorApp/.externalNativeBuild
